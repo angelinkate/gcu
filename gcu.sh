@@ -22,7 +22,7 @@ inits=(
 
 # TODO: put a git local directory
 rnames=( 
-"android-qlog"
+"gcu"
 )
 
 echo "root directory is ${target}"
